@@ -1,2 +1,2 @@
 # Website-flask
-website from flask. learning
+Actually, this is not completely done yet. But you could say it's almost 100% complete. There is only one part that is not finished and I am still fixing it, which is the part in the work section. When looking at my work results, there are 6 images there, and when you hover the cursor over the images, there should be a '+' button. When clicked, it is expected to show a pop-up like in the bootstrap template. However, this does not happen and instead adds to the bottom of the website.
